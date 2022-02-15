@@ -43,6 +43,9 @@ table th,table td{
 table tr:nth-child(odd){
   background-color: #eee
 }
+.th {
+  border-left: 1px solid #3c6690;
+}
 .g3-c{
   color=:#008000;
 }
