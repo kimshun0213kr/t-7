@@ -40,7 +40,7 @@ table th,table td{
 table tr:nth-child(odd){
   background-color: #eee
 }
-th,.this-week-grade-c {
+th,.race-name-c {
   border-right: 1px solid #3c6690;
 }
 .this-week-grade {
