@@ -43,9 +43,6 @@ table th,table td{
 table tr:nth-child(odd){
   background-color: #eee
 }
-.race-name {
-  float:left;
-}
 .g3-c{
   color=:#008000;
 }
