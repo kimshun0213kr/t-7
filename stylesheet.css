@@ -24,9 +24,6 @@ li {
   padding:0px;
   margin:0px;
 }
-.this-week-grade {
-  float:left;
-}
 .this-week-link{
   width:624px;
   height:56.1px;
@@ -43,8 +40,11 @@ table th,table td{
 table tr:nth-child(odd){
   background-color: #eee
 }
-.th {
-  border-left: 1px solid #3c6690;
+th,.this-week-grade-c {
+  border-right: 1px solid #3c6690;
+}
+.this-week-grade {
+  float:left;
 }
 .g3-c{
   color=:#008000;
