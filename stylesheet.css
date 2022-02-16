@@ -28,7 +28,7 @@ li {
   width:624px;
   height:56.1px;
 }
-table tr .grade *:nth-child(odd){
+table tr .grade-table *:nth-child(odd){
   background-color: #eee
 }
 table{
