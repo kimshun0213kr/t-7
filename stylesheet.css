@@ -28,6 +28,22 @@ li {
   width:624px;
   height:56.1px;
 }
+table　grade-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+table tr .grade-table *:nth-child(1){
+  background: #eee;
+}
+
+table tr .grade-table *:nth-child(2){
+  background: #ffffff;
+}
+
+table tr .grade-table *:nth-child(3){
+  background: #eee;
+}
 table{
   width: 1260px;
   border-collapse: collapse;
