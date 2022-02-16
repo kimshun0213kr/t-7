@@ -31,6 +31,9 @@ li {
 table tr .grade-table *:nth-child(1){
   background-color: #eee
 }
+table tr .grade-table *:nth-child(2){
+  background-color: #fff
+}
 table tr .grade-table *:nth-child(3){
   background-color: #eee
 }
