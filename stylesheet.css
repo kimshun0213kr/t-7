@@ -32,7 +32,18 @@ li {
 .grade {
   float:left;
 }
-
+.grade1 {
+  background-color:#00bfff;
+  width:415px;
+}
+.grade2 {
+  background-color:#ff0000
+  width:415px;
+}
+.grade3 {
+  background-color:#008000
+  width:415px;
+}
 table{
   width: 1260px;
   border-collapse: collapse;
