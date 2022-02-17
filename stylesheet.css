@@ -34,16 +34,19 @@ li {
   color:#ffffff;
 }
 .grade1 {
-  background-color:#00bfff;
   width:415px;
+  background-color:#00bfff;
+  color:#ffffff;
 }
 .grade2 {
-  background-color:#ff0000;
   width:415px;
+  background-color:#ff0000;
+  color:#ffffff;
 }
 .grade3 {
-  background-color:#008000;
   width:415px;
+  background-color:#008000;
+  color:#ffffff;
 }
 table{
   width: 1260px;
