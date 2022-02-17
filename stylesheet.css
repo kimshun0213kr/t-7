@@ -29,6 +29,10 @@ li {
   width:624px;
   height:56.1px;
 }
+.grade {
+  float:left;
+}
+
 table{
   width: 1260px;
   border-collapse: collapse;
