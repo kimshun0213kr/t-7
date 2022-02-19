@@ -13,7 +13,7 @@ li {
 }
 .header-logo {
   float:left;
-  font-size:66px;
+  font-size:42px;
   padding:20px 40px;
 }
 .header-list li {
@@ -37,16 +37,17 @@ li {
 .g-search1 {
   background-color:#00bfff;
   color:#ffffff;
-  border-right: 1px solid #3c6690;
+  width:33%;
 }
 .g-search2 {
   background-color:#ff0000;
   color:#ffffff;
-  border-right: 1px solid #3c6690;
+  width:33%;
 }
 .g-search3 {
   background-color:#008000;
   color:#ffffff;
+  width:34%;
 }
 table{
   width: 100%;
