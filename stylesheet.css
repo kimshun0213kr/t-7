@@ -29,22 +29,22 @@ li {
   width:624px;
   height:56.1px;
 }
-.grade {
-  float:left;
-  color:#ffffff;
+.gradesearch {
+  width:1260px;
+  border-collapse: collapse;
+  border-spacing: 0;
 }
-.grade1 {
-  width:415px;
+.g-search1 {
   background-color:#00bfff;
   color:#ffffff;
+  border-right: 1px solid #3c6690;
 }
-.grade2 {
-  width:415px;
+.g-search2 {
   background-color:#ff0000;
   color:#ffffff;
+  border-right: 1px solid #3c6690;
 }
-.grade3 {
-  width:415px;
+.g-search3 {
   background-color:#008000;
   color:#ffffff;
 }
@@ -66,18 +66,6 @@ th,.race-name-c {
 .this-week-grade {
   float:left;
 }
-.g3-c{
-  color=:#008000;
-}
-.g2-c {
-  color=:#e60033;
-}
-.g1-c {
-  color=:#00bfff;
-}
-.g1 {
-  font-wight:bold;
- }
 .footer {
   background-color:#4b0082;
   height:80px;
