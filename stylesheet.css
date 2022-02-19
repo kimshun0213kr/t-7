@@ -8,7 +8,7 @@ li {
 .header {
   background-color:#00bfff;
   height:150px;
-  width:1260px;
+  width:100%;
   color:#ffffff
 }
 .header-logo {
@@ -21,7 +21,7 @@ li {
   padding:33px 20px;
 }
 .this-week {
-  width:1260px;
+  width:100%;
   padding:0px;
   margin:0px;
 }
@@ -30,7 +30,7 @@ li {
   height:56.1px;
 }
 .gradesearch {
-  width:1260px;
+  width:100%;
   border-collapse: collapse;
   border-spacing: 0;
 }
@@ -49,7 +49,7 @@ li {
   color:#ffffff;
 }
 table{
-  width: 1260px;
+  width: 100%;
   border-collapse: collapse;
   border-spacing: 0;
 }
@@ -69,7 +69,7 @@ th,.race-name-c {
 .footer {
   background-color:#4b0082;
   height:80px;
-  width:1260px;
+  width:100%;
   color:#ffffff;
 }
 .footer-logo {
