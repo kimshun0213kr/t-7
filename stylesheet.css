@@ -31,6 +31,9 @@ li {
 .weekend-pic {
   width:50%;
 }
+.weekend-t,.weekend-table {
+  width:50%;
+}
 .gradesearch {
   width:100%;
   border-collapse: collapse;
