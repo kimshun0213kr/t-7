@@ -21,6 +21,7 @@ li {
   padding:33px 20px;
 }
 .this-week-grade {
+  font-size:42px;
   width:100%;
   border-collapse: collapse;
   border-spacing: 0;
@@ -28,11 +29,14 @@ li {
 .weekend-table {
   border-right: 1px solid #3c6690;
 }
-.weekend-pic {
-  width:25%;
+.g1 {
+  background-color:#00bfff;
 }
-.weekend-t,.weekend-table {
-  width:50%;
+.g2 {
+  background-color:#ff0000;
+}
+.g3 {
+  background-color:#008000;
 }
 .gradesearch {
   width:100%;
